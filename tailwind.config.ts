@@ -62,6 +62,18 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Custom Calendar App Colors
+        "cal-primary": "#605BFF",
+        "cal-text": "#030229",
+        "cal-badge": "#EF37FF",
+        "cal-orange": "#FF8F6B",
+        "cal-blue": "#26C0E2",
+        "cal-red": "#D11A2A",
+        "cal-dark-bg": "#151619",
+        "cal-card-bg": "#21222D",
+        "cal-sidebar-bg": "#201F25",
+        "cal-input-bg": "#4B4C58",
+        "cal-secondary-bg": "#2B2D3E",
       },
       borderRadius: {
         lg: "var(--radius)",
