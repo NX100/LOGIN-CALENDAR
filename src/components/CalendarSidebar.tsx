@@ -34,7 +34,7 @@ const CalendarSidebar = () => {
   ];
 
   return (
-    <div className="w-[218px] h-screen bg-cal-dark-bg border-r border-black/50 flex flex-col">
+    <div className="w-[218px] min-h-screen bg-cal-dark-bg border-r border-black/50 flex flex-col shrink-0">
       {/* Logo */}
       <div className="p-6 border-b border-gray-800/30">
         <div className="flex items-center gap-3">
